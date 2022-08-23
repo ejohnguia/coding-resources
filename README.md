@@ -4,6 +4,11 @@
 
 Personal compiled list of resources to use when coding.
 
+# Official Cheat Sheets
+
+-   [Markdown](https://www.markdownguide.org/cheat-sheet/)
+-   [Visual Studio Keyboard Shortcuts](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
+
 # [Git](https://git-scm.com/)
 
 ### Making Commits
