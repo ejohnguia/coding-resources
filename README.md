@@ -9,6 +9,10 @@ Personal compiled list of resources to use when coding.
 -   [Markdown](https://www.markdownguide.org/cheat-sheet/)
 -   [Visual Studio Keyboard Shortcuts](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
 
+# Unofficial Cheat Sheets
+
+-   [Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet)
+
 # [Git](https://git-scm.com/)
 
 ### Making Commits
