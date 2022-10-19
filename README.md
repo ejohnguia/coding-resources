@@ -27,13 +27,19 @@ Here are some possible options:
         -   [How to sync on Mobile with Git](https://www.greghilston.com/post/how-i-use-obsidian-mobile-with-git-on-android/)
 -   [Joplin](https://joplinapp.org/)
 
-# [Git](https://git-scm.com/)
+# Guides
 
-### Making Commits
+## [Git](https://git-scm.com/)
 
 Writing commits can be helpful for those who may want to track or contribute in the future. Implementing these standards is best.
 
 -   [How to Write Better Git Commit Messages – A Step-By-Step Guide](https://www.freecodecamp.org/news/how-to-write-better-git-commit-messages/)
+
+## Coding Conventions
+
+When typing in different programming languages, conventions are used.
+
+-   [Google Style Guides](https://google.github.io/styleguide)
 
 # Open Source Contributions
 
