@@ -13,6 +13,20 @@ Personal compiled list of resources to use when coding.
 
 -   [Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet)
 
+# Note Taking
+
+OneNote isn't as feasible of an option for note taking when it's limited to OneDrive cloud syncing as well as not being able to use it on a Linux machine.
+
+These are markdown based applications.
+
+Here are some possible options:
+
+-   [Obsidian](https://obsidian.md/)
+    -   Using Obsidian on mobile:
+        -   Use [Terminux](https://github.com/termux/termux-app)
+        -   [How to sync on Mobile with Git](https://www.greghilston.com/post/how-i-use-obsidian-mobile-with-git-on-android/)
+-   [Joplin](https://joplinapp.org/)
+
 # [Git](https://git-scm.com/)
 
 ### Making Commits
