@@ -4,29 +4,6 @@
 
 Personal compiled list of resources to use when coding.
 
-# Official Cheat Sheets
-
--   [Markdown](https://www.markdownguide.org/cheat-sheet/)
--   [Visual Studio Keyboard Shortcuts](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
-
-# Unofficial Cheat Sheets
-
--   [Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet)
-
-# Note Taking
-
-OneNote isn't as feasible of an option for note taking when it's limited to OneDrive cloud syncing as well as not being able to use it on a Linux machine.
-
-These are markdown based applications.
-
-Here are some possible options:
-
--   [Obsidian](https://obsidian.md/)
-    -   Using Obsidian on mobile:
-        -   Use [Termux](https://github.com/termux/termux-app)
-        -   [How to sync on Mobile with Git](https://www.greghilston.com/post/how-i-use-obsidian-mobile-with-git-on-android/)
--   [Joplin](https://joplinapp.org/)
-
 # Guides
 
 ## [Git](https://git-scm.com/)
@@ -40,6 +17,28 @@ Writing commits can be helpful for those who may want to track or contribute in 
 When typing in different programming languages, conventions are used.
 
 -   [Google Style Guides](https://google.github.io/styleguide)
+
+## Cheat Sheets
+
+-   [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
+-   [Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet)
+-   [Visual Studio Keyboard Shortcuts](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
+
+# Software
+
+## Note Taking
+
+OneNote isn't as feasible of an option for note taking when it's limited to OneDrive cloud syncing as well as not being able to use it on a Linux machine.
+
+These are markdown based applications.
+
+Here are some possible options:
+
+-   [Obsidian](https://obsidian.md/)
+    -   Using Obsidian on mobile:
+        -   Use [Termux](https://github.com/termux/termux-app)
+        -   [How to sync on Mobile with Git](https://www.greghilston.com/post/how-i-use-obsidian-mobile-with-git-on-android/)
+-   [Joplin](https://joplinapp.org/)
 
 # Open Source Contributions
 
