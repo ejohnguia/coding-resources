@@ -12,6 +12,11 @@ Writing commits can be helpful for those who may want to track or contribute in 
 
 -   [How to Write Better Git Commit Messages – A Step-By-Step Guide](https://www.freecodecamp.org/news/how-to-write-better-git-commit-messages/)
 
+## Markdown
+
+-   [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
+-   [Mermaid](https://github.com/mermaid-js/mermaid)
+
 ## Coding Conventions
 
 When typing in different programming languages, conventions are used.
@@ -20,7 +25,6 @@ When typing in different programming languages, conventions are used.
 
 ## Cheat Sheets
 
--   [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
 -   [Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet)
 -   [Visual Studio Keyboard Shortcuts](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
 
