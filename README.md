@@ -44,6 +44,10 @@ Here are some possible options:
         -   [How to sync on Mobile with Git](https://www.greghilston.com/post/how-i-use-obsidian-mobile-with-git-on-android/)
 -   [Joplin](https://joplinapp.org/)
 
+# Great General Readings
+
+-   [martinFowler](https://martinfowler.com/)
+
 # Open Source Contributions
 
 ### [CodeTriage](https://www.codetriage.com/)
