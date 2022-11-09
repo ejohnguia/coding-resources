@@ -2,7 +2,7 @@
 
 # Coding Resources
 
-Personal compiled list of resources to use when coding.
+Personal compiled list of interesting resources.
 
 # Guides
 
@@ -53,3 +53,14 @@ Here are some possible options:
 ### [CodeTriage](https://www.codetriage.com/)
 
 Get started on open source projects by language.
+
+# Misc.
+
+## Privacy
+
+-   [Privacy Tools](https://www.privacytools.io/)
+-   [Privacy Guide](https://www.privacyguides.org/)
+
+### How-Tos
+
+-   [How to delete your email and phone number from Facebook](https://www.malwarebytes.com/blog/personal/2022/11/how-to-delete-your-email-and-phone-number-from-facebook)
