@@ -47,6 +47,7 @@ Here are some possible options:
 # Great General Readings
 
 -   [martinFowler](https://martinfowler.com/)
+-   [Solid Principles](https://www.freecodecamp.org/news/solid-principles-for-programming-and-software-design/)
 
 # Open Source Contributions
 
