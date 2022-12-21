@@ -6,6 +6,11 @@ Personal compiled list of interesting resources.
 
 # Guides
 
+## Interview Preparation
+
+-   [Tech Interview Handbook](https://www.techinterviewhandbook.org/)
+    -   [Grind75](https://www.techinterviewhandbook.org/grind75)
+
 ## [Git](https://git-scm.com/)
 
 Writing commits can be helpful for those who may want to track or contribute in the future. Implementing these standards is best.
