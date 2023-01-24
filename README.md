@@ -35,6 +35,11 @@ When typing in different programming languages, conventions are used.
 
 # Software
 
+## Tools
+
+-   [.gitingore Generator](https://www.gitignore.io/)
+    -   Automatically generate .gitignore files for your project.
+
 ## Note Taking
 
 OneNote isn't as feasible of an option for note taking when it's limited to OneDrive cloud syncing as well as not being able to use it on a Linux machine.
