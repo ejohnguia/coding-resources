@@ -71,6 +71,7 @@ Get started on open source projects by language.
 
 -   [Privacy Tools](https://www.privacytools.io/)
 -   [Privacy Guide](https://www.privacyguides.org/)
+    -   [Firefox Profilemaker](https://ffprofile.com/)
 
 ### How-Tos
 
