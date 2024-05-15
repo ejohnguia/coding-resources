@@ -15,6 +15,7 @@ Personal compiled list of interesting resources.
 
 Writing commits can be helpful for those who may want to track or contribute in the future. Implementing these standards is best.
 
+-   [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)
 -   [How to Write Better Git Commit Messages – A Step-By-Step Guide](https://www.freecodecamp.org/news/how-to-write-better-git-commit-messages/)
 
 ## Markdown
